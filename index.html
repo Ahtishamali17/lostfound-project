@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Lost & Found System</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="header">
+<h1>AI Powered Campus Lost & Found</h1>
+</div>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Report Lost Item</h2>
+
+<input type="text" id="lostTitle" placeholder="Item Name">
+
+<textarea id="lostDesc" placeholder="Description"></textarea>
+
+<input type="file" id="lostImage">
+
+<button onclick="submitLost()">Submit Lost Item</button>
+
+</div>
+<div class="card">
+
+<h2>Report Found Item</h2>
+
+<input type="text" id="foundTitle" placeholder="Item Name">
+
+<textarea id="foundDesc" placeholder="Description"></textarea>
+
+<input type="file" id="foundImage">
+
+<button onclick="submitFound()">Submit Found Item</button>
+
+</div>
+
+</div>
+
+<div class="result" id="result"></div>
+
+<div class="preview">
+
+<img id="matchImage">
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
