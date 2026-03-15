@@ -164,14 +164,31 @@ Admin Dashboard Update
 ## 📷 Screenshots
 
 
+## 📸 Project Screenshots
 
-Example:
+### 1. Home Page
+![Home](screenshots/Screenshot%202026-03-15%20130733.png)
 
-- Home Page
-- Lost Item Form
-- Found Item Form
-- Match Result
-- Admin Dashboard
+### 2. Login / Form Page
+![Login](screenshots/Screenshot%202026-03-15%20164040.png)
+
+### 3. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164055.png)
+
+### 4. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164109.png)
+
+### 5. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164122.png)
+
+### 6. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164237.png)
+
+### 7. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164312.png)
+
+### 8. Page View
+![Page](screenshots/Screenshot%202026-03-15%20164345.png)
 
 ---
 
